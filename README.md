@@ -1,8 +1,6 @@
-================================================================================
-  COMP3029 Computer Vision Coursework – README
-  Robust Quality Classification of Germinated Oil Palm Seeds
-  under Real-World Distribution Shift
-================================================================================
+COMP3029 Computer Vision Coursework – README
+Robust Quality Classification of Germinated Oil Palm Seeds under Real-World Distribution Shift
+
 
 Notebook file : COMP3029_Improved_Pipeline_v4.ipynb
 Platform      : Google Colab (recommended)
